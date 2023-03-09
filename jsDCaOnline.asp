@@ -1,0 +1,2 @@
+document.write('<span class="DCOffline">Sorry, I am not online at the moment, <a class="DCOffline" target="_blank" href="https://refer.adultwork.com?R=2049856&T=http%3A%2F%2Fwww%2Eadultwork%2Ecom%2FViewProfile%2Easp%3FUserID%3D2049856">click here</a> to book me or <a target="_blank" class="DCOffline" href="https://refer.adultwork.com?R=2049856&T=http%3A%2F%2Fwww%2Eadultwork%2Ecom%2FDirectCam%2Fdefault%2Easp">here</a> to view those currently online.</span>');
+//
